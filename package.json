@@ -1,0 +1,22 @@
+{
+  "name": "pynode",
+  "version": "1.0.0",
+  "description": "a bitcoin full node implementation in python",
+  "main": "node.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonhuan/pynode.git"
+  },
+  "keywords": [
+    "bitcoin"
+  ],
+  "author": "Jason Huan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonhuan/pynode/issues"
+  },
+  "homepage": "https://github.com/jasonhuan/pynode#readme"
+}
